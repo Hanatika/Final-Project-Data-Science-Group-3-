@@ -49,13 +49,13 @@ Complain - 1 if customer complained in the last 2 years
 Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
 
 5. Data Processing Steps  
-1. Data Collection – Import dataset into Jupyter Notebook.  
-2. Data Cleaning – Handle missing values, duplicate records, and incorrect data types.  
-3. Exploratory Data Analysis (EDA) – Visualize customer distribution, spending patterns, and campaign response rates.  
-4. Feature Engineering – Create new variables for deeper insights, such as customer segmentation.  
-5. Model Development – Train classification models to predict customer responses.  
-6. Model Evaluation – Use metrics such as accuracy and recall. 
-7. Insights & Recommendations – Provide business recommendations based on findings.  
+   - Data Collection – Import dataset into Jupyter Notebook.
+   - Data Cleaning – Handle missing values, duplicate records, and incorrect data types.
+   - Exploratory Data Analysis (EDA) – Visualize customer distribution, spending patterns, and campaign response rates.
+   - Feature Engineering – Create new variables for deeper insights, such as customer segmentation.
+   - Model Development – Train classification models to predict customer responses.
+   - Model Evaluation – Use metrics such as accuracy and recall.
+   - Insights & Recommendations – Provide business recommendations based on findings.  
 
 6. Results & Key Findings  
 - Customers with higher incomes and frequent purchases are more likely to respond.  
